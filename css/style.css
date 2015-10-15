@@ -1087,19 +1087,19 @@ font-style: italic;
 /* Change base color*/
 
 
--moz-selection{background:#9DC500;}
-::selection{background:#9DC500;}
+-moz-selection{background:#07585c;}
+::selection{background:#07585c;}
 .wrapper-comming-soon .social li a, .container-comming-soon, #progress-bar
-{background:#9DC500;}
+{background:#07585c;}
 
 footer a:hover,.widget-twitter ul li .tweet_text a:hover, input.email ,
 .wrapper-comming-soon  .twitter-feed .tweet_text .at,.wrapper-comming-soon  .twitter-feed a, footer a:visited 
-{color:#9DC500;}
+{color:#07585c;}
 
 input::-webkit-input-placeholder
-{color:#9DC500;}
+{color:#07585c;}
 
-.btn_email{	background:url(../img/plus.png) no-repeat #9DC500;}
+.btn_email{	background:url(../img/plus.png) no-repeat #07585c;}
 
 
 .contact_map { position: absolute; top:0; left:0; width: 100%; height: 100%; z-index: 2; opacity: 1;}
